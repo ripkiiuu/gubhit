@@ -1,3 +1,3 @@
 public class coba{
-    System.err.println("Hello World");
+    System.err.println("Hello");
 }
